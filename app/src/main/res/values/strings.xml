@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">blocknote</string>
+    <string name="ed_title_hint">Заголовок</string>
+    <string name="ed_description_hint">Описание</string>
+</resources>
